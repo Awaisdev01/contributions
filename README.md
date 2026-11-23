@@ -10,6 +10,14 @@ Only contributions **verified directly from GitHub's git data** (commit authorsh
 
 Fixes `TestWidgetsFlutterBinding` to reset the widget tree correctly for multi-view apps.
 
+## flutter/devtools — merged commit on main
+
+| Commit | Title | Date |
+|---|---|---|
+| [`b20573fe`](https://github.com/flutter/devtools/commit/b20573fe) | Adjust ANSI colors in logs and console for theme legibility (#10060) | 2026-11-05 |
+
+Fixed terminal-fixed ANSI colors (e.g. `ansi-blue` on dark backgrounds) for legibility in DevTools logs and console.
+
 ## kiwix/kiwix-android — patches landed on main
 
 Authored by me (account `Awaisdevv`, same email), integrated into the app:
