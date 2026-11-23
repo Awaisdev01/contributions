@@ -1,8 +1,6 @@
 # 🏆 Merged Contributions — flutter/flutter
 
-Every non-roll, non-bot pull request authored by this account that was **merged into flutter/flutter** (27 total, Nov 2026). Plus roll PRs (Skia/Dart SDK/packages) keeping the engine current, and open-source refactoring work on Apple's `sourcekit-lsp`.
-
-## Merged PRs to flutter/flutter
+All 27 of my pull requests that were **merged into [flutter/flutter](https://github.com/flutter/flutter)** under my previous account, `awaisdev5765` (now suspended). Authored and merged November 2026.
 
 | PR | Title | Merged |
 |---|---|---|
@@ -34,11 +32,4 @@ Every non-roll, non-bot pull request authored by this account that was **merged 
 | [flutter/flutter#196800](https://github.com/flutter/flutter/pull/196800) | [stable] [flutter_tools] Preserve index.html after --web-content-hash | 2026-11-18 |
 | [flutter/flutter#196796](https://github.com/flutter/flutter/pull/196796) | [stable] [flutter_tools] Handle RPCError in ScreenshotCommand.runSkia | 2026-11-18 |
 
-## Also: engine roll PRs
-Dozens of Skia / Dart SDK / Packages roll PRs merged while contributing to the release pipeline (see [full list](ROLL.md)).
-
-## Apple / sourcekit-lsp work
-Local branches authored and kept in `~/Downloads/sourcekit-lsp`: swift-syntax based refactoring actions — ExtractExpr migration, MoveMembersToExtension, ConvertToSwitchStmt, CollapseNestedIfStmt, ExpandTernaryExpr, ConvertToTernaryExpr.
-
-## My repos
-See the full portfolio on this account: nativetap, factcheck, prism_doctor, prism_glass, promptguard, shipcheck, smsaria, stfu-2.0, urdu_toolkit, bashproof, diffconscience, prism_lints, prism_sketch, prism_alerts, prism_guardrails.
+Covering: iOS platform views & frame timing, Impeller/Vulkan (shader cache persistence, GPU tracing, wide-gamut groundwork), macOS desktop builds (ThinLTO), flutter_tools (web hash serving, DevFS error handling, channel switching), widgets dry-layout fixes, Linux focus handling, CanvasKit lifecycle, and stable-channel hotfixes.
